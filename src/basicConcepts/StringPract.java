@@ -2,7 +2,8 @@ package basicConcepts;
 
 public class StringPract {
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Hello class");
+		System.out.println("Hi class");
 	}
 
 }
